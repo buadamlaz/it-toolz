@@ -52,12 +52,12 @@ Her araç yalnızca siz dokunduğunuzda çalışır, neyin nasıl ölçüldüğ�
 |---|---|
 | **Ping** | Gerçek ICMP echo ile erişilebilirlik ve gecikme: canlı çıktı, paket kaybı, en düşük / ortalama / en yüksek gidiş-dönüş süresi ve standart sapma. |
 | **Traceroute** | Bir host'a giden ağ yolunu atlama atlama, her denemenin yanıt süresiyle gösterir. |
-| **DNS Lookup** | TTL ve yanıt veren çözümleyiciyle birlikte A, AAAA, CNAME, MX, TXT, NS, SOA ve CAA kayıtları. |
+| **DNS Lookup** | TTL ve yanıt veren çözümleyiciyle birlikte A, AAAA, CNAME, MX, TXT, NS, SOA ve CAA kayıtları. Cihazınızın DNS'ine veya seçtiğiniz sunucuya sorun: 1.1.1.1, 8.8.8.8 ya da kendi sunucunuz. |
 | **Reverse DNS** | Bir IPv4 veya IPv6 adresinin host adı (PTR). |
 | **Port Check** | Bir TCP portunun açık, kapalı veya filtreli olduğunu gösterir; UDP modu da vardır. |
 | **Subnet Calculator** | Her CIDR bloğu için ağ, yayın adresi, maskeler, ilk ve son kullanılabilir host ve host sayıları. |
 | **IP Converter** | IP adreslerini noktalı, ondalık, onaltılık ve ikili biçimlere çevirir. |
-| **Public IP** | Genel IPv4 ve IPv6 adresiniz; ağ (ASN, servis sağlayıcı), ülke, şehir ve saat dilimiyle birlikte. |
+| **Public IP** | Genel IPv4 ve IPv6 adresiniz; ağ (ASN, servis sağlayıcı), ülke, şehir ve saat dilimiyle birlikte; koordinatları harita uygulamanızda açın. |
 | **NTP Time Checker** | Cihaz saatini bir NTP sunucusuyla karşılaştırır; sapmayı ve gecikmeyi gösterir. |
 | **Wake-on-LAN** | Ağınızdaki bilgisayarları magic packet ile uyandırır. |
 | **LAN Device Discovery** | Yerel ağınızdaki cihazları bulur, host adlarını ve yanıt sürelerini gösterir, her cihazda yaygın 30 portu kontrol eder. *(Android)* |
@@ -137,11 +137,19 @@ IT-ToolZ'de **kullanıcı hesabı, analitik, reklam ve kendi sunucumuz yoktur**.
 
 ## Sürüm notları
 
+### 1.0.1 — Google Play'de kapalı testte
+
+- **DNS Lookup:** DNS sunucusu seçimi — cihazınızın DNS'i, 1.1.1.1, 8.8.8.8 veya kendi sunucu IP'niz.
+- **Public IP ve RDAP/WHOIS:** koordinatlara dokunarak harita uygulamanızda açın.
+- Daha düzenli IP bilgi tabloları: başlıklar solda, değerler sağda.
+
 ### 1.0.0 — ilk sürüm
 
 - 19 araç: Ping, Traceroute, DNS Lookup, Reverse DNS, Port Check (TCP ve UDP), Subnet Calculator, IP Converter, Public IP, NTP Time Checker, Wake-on-LAN, LAN Device Discovery, SSL Certificate Checker, RDAP/WHOIS, Password Generator, HTTP Headers, Hash Generator, Base64, URL Encoder/Decoder ve JSON Formatter.
 - Ağ Bilgilerim sayfası, favoriler, yeniden çalıştırılabilen geçmiş.
 - Açık, koyu ve sistem teması; 7 dil.
+
+Tüm değişiklikler: [CHANGELOG.tr.md](CHANGELOG.tr.md)
 
 ## İletişim
 

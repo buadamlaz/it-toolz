@@ -52,12 +52,12 @@ Every tool runs only when you tap it, shows exactly what was measured and how, a
 |---|---|
 | **Ping** | Reachability and latency with real ICMP echo: live output, packet loss and min / avg / max round-trip times with standard deviation. |
 | **Traceroute** | The network path to a host, hop by hop, with the response time of every probe. |
-| **DNS Lookup** | A, AAAA, CNAME, MX, TXT, NS, SOA and CAA records with TTLs and the resolver that answered. |
+| **DNS Lookup** | A, AAAA, CNAME, MX, TXT, NS, SOA and CAA records with TTLs and the resolver that answered. Ask your device's DNS or a server you choose: 1.1.1.1, 8.8.8.8 or your own. |
 | **Reverse DNS** | The host name (PTR) of an IPv4 or IPv6 address. |
 | **Port Check** | Whether a TCP port is open, closed or filtered, plus a UDP mode. |
 | **Subnet Calculator** | Network, broadcast, masks, first and last usable host and host counts for any CIDR block. |
 | **IP Converter** | IP addresses in dotted, decimal, hexadecimal and binary forms. |
-| **Public IP** | Your public IPv4 and IPv6 address with network (ASN, ISP), country, city and time zone. |
+| **Public IP** | Your public IPv4 and IPv6 address with network (ASN, ISP), country, city and time zone; open the coordinates in your maps app. |
 | **NTP Time Checker** | Compares the device clock with an NTP server and shows the offset and delay. |
 | **Wake-on-LAN** | Wakes computers on your network with a magic packet. |
 | **LAN Device Discovery** | Finds devices on your local network, shows host names and response times, and checks 30 common ports per device. *(Android)* |
@@ -137,11 +137,19 @@ Read the full [Privacy Policy](PRIVACY.md).
 
 ## Release notes
 
+### 1.0.1 — in closed testing on Google Play
+
+- **DNS Lookup:** choose the DNS server — your device's DNS, 1.1.1.1, 8.8.8.8 or your own server IP.
+- **Public IP and RDAP/WHOIS:** tap the coordinates to open them in your maps app.
+- Cleaner IP details tables: labels left, values right.
+
 ### 1.0.0 — first release
 
 - 19 tools: Ping, Traceroute, DNS Lookup, Reverse DNS, Port Check (TCP and UDP), Subnet Calculator, IP Converter, Public IP, NTP Time Checker, Wake-on-LAN, LAN Device Discovery, SSL Certificate Checker, RDAP/WHOIS, Password Generator, HTTP Headers, Hash Generator, Base64, URL Encoder/Decoder and JSON Formatter.
 - My Network page, favorites, history with re-run.
 - Light, dark and system themes; 7 languages.
+
+All changes: [CHANGELOG.md](CHANGELOG.md)
 
 ## Contact
 
