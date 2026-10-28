@@ -2,8 +2,8 @@
 
 <p align="right"><a href="PRIVACY.md">English</a> · <b>Türkçe</b> · <a href="README.tr.md">IT-ToolZ</a></p>
 
-**İletişim:** [GitHub Issues](https://github.com/buadamlaz/it-toolz/issues)
-**Yürürlük tarihi:** 22 Ekim 2026
+**İletişim:** [GitHub Issues](https://github.com/buadamlaz/it-toolz/issues)  
+**Yürürlük tarihi:** 28 Ekim 2026
 
 ## 1. Uygulama hakkında
 IT-ToolZ, BT ve ağ uzmanları için bir araç setidir. Ağ teşhis araçları (Ping, Traceroute, DNS Lookup, Reverse DNS, Port Check, NTP Time Checker, SSL Certificate Checker, HTTP Headers, RDAP/WHOIS, Public IP), yerel ağ araçları (Wake-on-LAN, LAN Device Discovery), çevrimdışı hesaplama ve dönüştürme araçları (Subnet Calculator, IP Converter, Base64, URL Encoder/Decoder, JSON Formatter, metin için Hash Generator, Password Generator) sunar ve mevcut ağ bağlantınızla ilgili bilgileri gösterir ("Ağ Bilgilerim").
@@ -22,9 +22,9 @@ Uygulama internete yalnızca bir ağ aracını başlattığınızda veya bunu is
 
 - **Seçtiğiniz hedefler.** Ping, Traceroute, Port Check, NTP Time Checker, SSL Certificate Checker ve HTTP Headers, girdiğiniz host'a, adrese veya URL'ye bağlanır (HTTP Headers yönlendirmeleri de izler). Her internet bağlantısında olduğu gibi bu hedef cihazınızın IP adresini görür; Traceroute'ta yol üzerindeki yönlendiriciler de deneme paketlerini görür. SSL Certificate Checker, TLS el sıkışması sırasında yalnızca host adını gönderir. HTTP Headers her adrese çerez veya oturum bilgisi olmadan bir istek gönderir; düz `http://` adresleri şifrelenmez.
 - **Yerel ağınız.** Wake-on-LAN, girdiğiniz MAC adresini içeren bir "magic packet"i (UDP) seçtiğiniz adrese, genellikle yerel ağınıza gönderir. LAN Device Discovery yalnızca seçtiğiniz yerel ağ aralığını (yalnızca özel adres aralıkları) ICMP echo ve TCP bağlantı denemeleriyle tarar ve cihaz adlarını DNS çözümleyicinize sorar. Cihaz listeleri ekranda gösterilir; saklanmaz ve hiçbir yere gönderilmez.
-- **DNS.** DNS Lookup ve Reverse DNS, girdiğiniz adı veya adresi cihazınızın DNS çözümleyicisine (ağınızın DNS sunucusu, Özel DNS sağlayıcınız veya VPN'iniz) gönderir. Özel DNS etkin değilse DNS sorguları genellikle şifrelenmez.
+- **DNS.** DNS Lookup ve Reverse DNS, girdiğiniz adı veya adresi cihazınızın DNS çözümleyicisine (ağınızın DNS sunucusu, Özel DNS sağlayıcınız veya VPN'iniz) gönderir. Özel DNS etkin değilse DNS sorguları genellikle şifrelenmez. DNS Lookup'ta bunun yerine DNS sunucusunu kendiniz seçebilirsiniz (Cloudflare'in 1.1.1.1'i, Google'ın 8.8.8.8'i veya sizin girdiğiniz bir adres): sorgu o zaman doğrudan bu sunucuya, 53 numaralı porttan şifresiz gider; Özel DNS'i ve cihazınızın DNS ayarlarını atlar. Uygulama son seçiminizi yalnızca cihazda hatırlar.
 - **RDAP/WHOIS.** Alan adı sorgularında uygulama IANA'dan (data.iana.org) herkese açık listeleri indirir (bu istekler sorgunuzu içermez), ardından o alan adından sorumlu kayıt kuruluşuna (örneğin Verisign) sorar. IP adresi sorgularında uygulama üçüncü taraf **ipwho.is** servisine sorar; bu servis adresin yaklaşık konumunu ve ağ sağlayıcısını döndürür. Kayıt kuruluşu veya ipwho.is sorgunuzu ve IP adresinizi alır. Özel ve yerel adresler (örneğin 192.168.x.x) asla gönderilmez.
-- **Genel IP.** Genel IP adresinizi ağ sağlayıcısı ve yaklaşık konumuyla birlikte göstermek için uygulama üçüncü taraf **ipwho.is** servisine sorar. Yalnızca ipwho.is'e ulaşılamazsa aynı anda iki başka üçüncü taraf servise sorar: **ipify** (api.ipify.org, api6.ipify.org) ve **ifconfig.me**. Sorulan her servis genel IP adresinizi alır; yer adları için uygulama dili dışında başka veri gönderilmez. Bu yalnızca Public IP aracında veya "Ağ Bilgilerim" sayfasında düğmeye bastığınızda olur.
+- **Genel IP.** Genel IP adresinizi ağ sağlayıcısı ve yaklaşık konumuyla birlikte göstermek için uygulama üçüncü taraf **ipwho.is** servisine sorar. Yalnızca ipwho.is'e ulaşılamazsa aynı anda iki başka üçüncü taraf servise sorar: **ipify** (api.ipify.org, api6.ipify.org) ve **ifconfig.me**. Sorulan her servis genel IP adresinizi alır; yer adları için uygulama dili dışında başka veri gönderilmez. Bu yalnızca Public IP aracında veya "Ağ Bilgilerim" sayfasında düğmeye bastığınızda olur. Bir IP adresi için gösterilen yaklaşık koordinatlara dokunursanız bunlar cihazınızın harita uygulamasına (iPhone'da Apple Haritalar) aktarılır; uygulamanın kendisi bir şey göndermez.
 
 Bu hedefler üçüncü taraflarca işletilir ve istekleri kendi gizlilik politikalarına göre işler. Uygulama IP adresinizi konumunuzu belirlemek için kullanmaz.
 
