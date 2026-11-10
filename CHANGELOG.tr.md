@@ -4,7 +4,7 @@ IT-ToolZ'daki kullanıcıya dönük değişiklikler. En yeni en üstte. Tarihler
 
 English: [CHANGELOG.md](CHANGELOG.md)
 
-## 1.0.1 — 2026-10-28 (Google Play'de kapalı test)
+## 1.0.1 — 2026-10-28 (Kasım 2026'dan beri Google Play'de ve App Store'da herkese açık)
 
 ### Yeni
 - **DNS Lookup: DNS sunucusu seçimi.** Cihazınızın DNS'ine (varsayılan), **1.1.1.1**'e, **8.8.8.8**'e veya sizin girdiğiniz bir sunucu IP adresine sorun; `nslookup example.com 1.1.1.1` gibi. Sonuç hangi sunucunun yanıt verdiğini ve UDP mi TCP mi kullanıldığını gösterir. Son seçiminiz cihazda hatırlanır.

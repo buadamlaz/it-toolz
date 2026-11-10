@@ -4,7 +4,7 @@ All notable changes to IT-ToolZ for users. Newest first. Dates are in ISO format
 
 Türkçe: [CHANGELOG.tr.md](CHANGELOG.tr.md)
 
-## 1.0.1 — 2026-10-28 (closed testing on Google Play)
+## 1.0.1 — 2026-10-28 (public on Google Play and the App Store since November 2026)
 
 ### Added
 - **DNS Lookup: choose the DNS server.** Ask your device's DNS (default), **1.1.1.1**, **8.8.8.8** or a server IP address you enter, like `nslookup example.com 1.1.1.1`. The result shows which server answered and whether UDP or TCP was used. Your last choice is remembered on the device.

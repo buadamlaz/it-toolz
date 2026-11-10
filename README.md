@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-en.png" height="60" alt="Get it on Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-en.svg" height="60" alt="Download on the App Store"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-0066E6?style=flat-square" alt="Version 1.0.0">
+  <img src="https://img.shields.io/badge/version-1.0.1-0066E6?style=flat-square" alt="Version 1.0.1">
   <img src="https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 10+">
   <img src="https://img.shields.io/badge/iOS-16%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 16+">
   <img src="https://img.shields.io/badge/languages-7-00B8E6?style=flat-square" alt="7 languages">
@@ -59,8 +59,8 @@ Every tool runs only when you tap it, shows exactly what was measured and how, a
 | **IP Converter** | IP addresses in dotted, decimal, hexadecimal and binary forms. |
 | **Public IP** | Your public IPv4 and IPv6 address with network (ASN, ISP), country, city and time zone; open the coordinates in your maps app. |
 | **NTP Time Checker** | Compares the device clock with an NTP server and shows the offset and delay. |
-| **Wake-on-LAN** | Wakes computers on your network with a magic packet. |
-| **LAN Device Discovery** | Finds devices on your local network, shows host names and response times, and checks 30 common ports per device. *(Android)* |
+| **Wake-on-LAN** | Wakes computers on your network with a magic packet. *(Android)* |
+| **LAN Device Discovery** | Finds devices on your local network, shows host names and response times, and checks 30 common ports per device. |
 
 ### Security & certificates
 
@@ -124,10 +124,12 @@ IT-ToolZ speaks **7 languages**, and the app language can be changed at any time
 
 ## Download
 
-| Platform | Requirement | Get it |
-|---|---|---|
-| <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> | Android 10 or later | <a href="#"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a> |
-| <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"> | iOS 16 or later | <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a> |
+<p align="center">Android 10 or later · iOS 16 or later, iPhone and iPad</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-en.png" height="60" alt="Get it on Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-en.svg" height="60" alt="Download on the App Store"></a>
+</p>
 
 ## Privacy
 
@@ -137,7 +139,7 @@ Read the full [Privacy Policy](PRIVACY.md).
 
 ## Release notes
 
-### 1.0.1 — in closed testing on Google Play
+### 1.0.1 — now on Google Play and the App Store
 
 - **DNS Lookup:** choose the DNS server — your device's DNS, 1.1.1.1, 8.8.8.8 or your own server IP.
 - **Public IP and RDAP/WHOIS:** tap the coordinates to open them in your maps app.
@@ -159,5 +161,5 @@ Questions, ideas or bug reports? Please [open an issue on GitHub](https://github
 
 <p align="center">
   <img src="assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ icon"><br>
-  <sub>IT-ToolZ 1.0.0 · Network & System Utilities</sub>
+  <sub>IT-ToolZ 1.0.1 · Network & System Utilities</sub>
 </p>

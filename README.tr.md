@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Google_Play%27den-%C4%B0ndir-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play'den indir"></a>
-  <a href="#"><img src="https://img.shields.io/badge/App_Store%27dan-%C4%B0ndir-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store'dan indir"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-tr.svg" height="60" alt="App Store'dan indirin"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/s%C3%BCr%C3%BCm-1.0.0-0066E6?style=flat-square" alt="Sürüm 1.0.0">
+  <img src="https://img.shields.io/badge/s%C3%BCr%C3%BCm-1.0.1-0066E6?style=flat-square" alt="Sürüm 1.0.1">
   <img src="https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 10+">
   <img src="https://img.shields.io/badge/iOS-16%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 16+">
   <img src="https://img.shields.io/badge/dil-7-00B8E6?style=flat-square" alt="7 dil">
@@ -59,8 +59,8 @@ Her araç yalnızca siz dokunduğunuzda çalışır, neyin nasıl ölçüldüğ�
 | **IP Converter** | IP adreslerini noktalı, ondalık, onaltılık ve ikili biçimlere çevirir. |
 | **Public IP** | Genel IPv4 ve IPv6 adresiniz; ağ (ASN, servis sağlayıcı), ülke, şehir ve saat dilimiyle birlikte; koordinatları harita uygulamanızda açın. |
 | **NTP Time Checker** | Cihaz saatini bir NTP sunucusuyla karşılaştırır; sapmayı ve gecikmeyi gösterir. |
-| **Wake-on-LAN** | Ağınızdaki bilgisayarları magic packet ile uyandırır. |
-| **LAN Device Discovery** | Yerel ağınızdaki cihazları bulur, host adlarını ve yanıt sürelerini gösterir, her cihazda yaygın 30 portu kontrol eder. *(Android)* |
+| **Wake-on-LAN** | Ağınızdaki bilgisayarları magic packet ile uyandırır. *(Android)* |
+| **LAN Device Discovery** | Yerel ağınızdaki cihazları bulur, host adlarını ve yanıt sürelerini gösterir, her cihazda yaygın 30 portu kontrol eder. |
 
 ### Güvenlik ve sertifikalar
 
@@ -124,10 +124,12 @@ IT-ToolZ **7 dil** konuşur; uygulama dili Ayarlar'dan istediğiniz zaman deği�
 
 ## İndir
 
-| Platform | Gereksinim | İndir |
-|---|---|---|
-| <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> | Android 10 veya üstü | <a href="#"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a> |
-| <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"> | iOS 16 veya üstü | <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a> |
+<p align="center">Android 10 veya üstü · iOS 16 veya üstü, iPhone ve iPad</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-tr.svg" height="60" alt="App Store'dan indirin"></a>
+</p>
 
 ## Gizlilik
 
@@ -137,7 +139,7 @@ IT-ToolZ'de **kullanıcı hesabı, analitik, reklam ve kendi sunucumuz yoktur**.
 
 ## Sürüm notları
 
-### 1.0.1 — Google Play'de kapalı testte
+### 1.0.1 — artık Google Play'de ve App Store'da
 
 - **DNS Lookup:** DNS sunucusu seçimi — cihazınızın DNS'i, 1.1.1.1, 8.8.8.8 veya kendi sunucu IP'niz.
 - **Public IP ve RDAP/WHOIS:** koordinatlara dokunarak harita uygulamanızda açın.
@@ -159,5 +161,5 @@ Sorularınız, önerileriniz veya hata bildirimleriniz için lütfen [GitHub'da 
 
 <p align="center">
   <img src="assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ simgesi"><br>
-  <sub>IT-ToolZ 1.0.0 · Network & System Utilities</sub>
+  <sub>IT-ToolZ 1.0.1 · Network & System Utilities</sub>
 </p>
