@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-tr.svg" height="60" alt="App Store'dan indirin"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ IT-ToolZ **7 dil** konuşur; uygulama dili Ayarlar'dan istediğiniz zaman deği�
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-tr.svg" height="60" alt="App Store'dan indirin"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
 </p>
 
 ## Gizlilik

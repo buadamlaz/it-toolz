@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-en.png" height="60" alt="Get it on Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-en.svg" height="60" alt="Download on the App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-en.png" height="60" alt="Download on the App Store"></a>
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ IT-ToolZ speaks **7 languages**, and the app language can be changed at any time
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-en.png" height="60" alt="Get it on Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-en.svg" height="60" alt="Download on the App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-en.png" height="60" alt="Download on the App Store"></a>
 </p>
 
 ## Privacy

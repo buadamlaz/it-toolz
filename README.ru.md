@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-ru.svg" height="60" alt="Загрузите в App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-ru.svg" height="60" alt="Загрузите в App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
 </p>
 
 ## Конфиденциальность

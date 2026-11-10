@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-fr.png" height="60" alt="Disponible sur Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-fr.svg" height="60" alt="Télécharger dans l'App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-fr.png" height="60" alt="Télécharger dans l'App Store"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Une boîte à outils ciblée pour les professionnels de l'IT et des réseaux qui
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-fr.png" height="60" alt="Disponible sur Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-fr.svg" height="60" alt="Télécharger dans l'App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-fr.png" height="60" alt="Télécharger dans l'App Store"></a>
 </p>
 
 ## Confidentialité

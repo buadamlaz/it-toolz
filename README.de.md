@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-de.png" height="60" alt="Jetzt bei Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-de.svg" height="60" alt="Laden im App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-de.png" height="60" alt="Laden im App Store"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Ein fokussiertes Werkzeugset für IT- und Netzwerkprofis, die unterwegs schnell 
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-de.png" height="60" alt="Jetzt bei Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/app-store-de.svg" height="60" alt="Laden im App Store"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-de.png" height="60" alt="Laden im App Store"></a>
 </p>
 
 ## Datenschutz
