@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ" width="560">
+  <img src="../assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ" width="560">
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-pt-BR.png" height="60" alt="Disponível no Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-pt-BR.png" height="60" alt="Baixar na App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-pt-BR.png" height="60" alt="Disponível no Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-pt-BR.png" height="60" alt="Baixar na App Store"></a>
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <b>Português (Brasil)</b> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a>
+  <a href="../README.md">English</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <b>Português (Brasil)</b> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a>
 </p>
 
 ---
@@ -56,9 +56,9 @@ Um kit de ferramentas focado para profissionais de TI e redes que precisam de re
 ## Capturas de tela
 
 <p align="center">
-  <img src="assets/screenshots/light/01-home.png" width="200" alt="IT-ToolZ">
-  <img src="assets/screenshots/light/03-ping.png" width="200" alt="Ping">
-  <img src="assets/screenshots/dark/04-dns.png" width="200" alt="DNS Lookup">
+  <img src="../assets/screenshots/light/01-home.png" width="200" alt="IT-ToolZ">
+  <img src="../assets/screenshots/light/03-ping.png" width="200" alt="Ping">
+  <img src="../assets/screenshots/dark/04-dns.png" width="200" alt="DNS Lookup">
 </p>
 
 <p align="center"><sub>Capturas com a interface em inglês.</sub></p>
@@ -68,8 +68,8 @@ Um kit de ferramentas focado para profissionais de TI e redes que precisam de re
 <p align="center">Android 10 ou mais recente · iOS 16 ou mais recente, iPhone e iPad</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-pt-BR.png" height="60" alt="Disponível no Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-pt-BR.png" height="60" alt="Baixar na App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-pt-BR.png" height="60" alt="Disponível no Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-pt-BR.png" height="60" alt="Baixar na App Store"></a>
 </p>
 
 ## Privacidade
@@ -78,4 +78,4 @@ Sem conta, sem análises, sem anúncios e sem servidor próprio. Histórico e fa
 
 ---
 
-A página completa está em inglês: [README.md](README.md) · [Política de privacidade](PRIVACY.md) · [Alterações](CHANGELOG.md)
+A página completa está em inglês: [README.md](../README.md) · [Política de privacidade](PRIVACY.pt-BR.md) · [Alterações](CHANGELOG.md)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ" width="560">
+  <img src="../assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ" width="560">
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <b>Русский</b>
+  <a href="../README.md">English</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <b>Русский</b>
 </p>
 
 ---
@@ -56,9 +56,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="assets/screenshots/light/01-home.png" width="200" alt="IT-ToolZ">
-  <img src="assets/screenshots/light/03-ping.png" width="200" alt="Ping">
-  <img src="assets/screenshots/dark/04-dns.png" width="200" alt="DNS Lookup">
+  <img src="../assets/screenshots/light/01-home.png" width="200" alt="IT-ToolZ">
+  <img src="../assets/screenshots/light/03-ping.png" width="200" alt="Ping">
+  <img src="../assets/screenshots/dark/04-dns.png" width="200" alt="DNS Lookup">
 </p>
 
 <p align="center"><sub>Скриншоты с английским интерфейсом.</sub></p>
@@ -68,8 +68,8 @@
 <p align="center">Android 10 или новее · iOS 16 или новее, iPhone и iPad</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-ru.png" height="60" alt="Доступно в Google Play"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-ru.png" height="60" alt="Загрузите в App Store"></a>
 </p>
 
 ## Конфиденциальность
@@ -78,4 +78,4 @@
 
 ---
 
-Полная страница на английском: [README.md](README.md) · [Политика конфиденциальности](PRIVACY.md) · [Изменения](CHANGELOG.md)
+Полная страница на английском: [README.md](../README.md) · [Политика конфиденциальности](PRIVACY.ru.md) · [Изменения](CHANGELOG.md)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ — Android ve iOS için ağ ve BT araç seti" width="560">
+  <img src="../assets/logo/it-toolz-logo-text.png" alt="IT-ToolZ — Android ve iOS için ağ ve BT araç seti" width="560">
 </p>
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <b>Türkçe</b> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a><br>
+  <a href="../README.md">English</a> · <b>Türkçe</b> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a><br>
   <a href="PRIVACY.tr.md">Gizlilik Politikası</a>
 </p>
 
@@ -94,27 +94,27 @@ Her araç yalnızca siz dokunduğunuzda çalışır, neyin nasıl ölçüldüğ�
 **Açık tema**
 
 <p align="center">
-  <img src="assets/screenshots/light/01-home.png" width="200" alt="Favoriler ve öne çıkan araçlarla IT-ToolZ ana ekranı, açık tema">
-  <img src="assets/screenshots/light/02-all-tools.png" width="200" alt="Kategorilere göre tüm araçlar, açık tema">
-  <img src="assets/screenshots/light/03-ping.png" width="200" alt="Canlı çıktı ve paket istatistikleriyle ICMP ping, açık tema">
+  <img src="../assets/screenshots/light/01-home.png" width="200" alt="Favoriler ve öne çıkan araçlarla IT-ToolZ ana ekranı, açık tema">
+  <img src="../assets/screenshots/light/02-all-tools.png" width="200" alt="Kategorilere göre tüm araçlar, açık tema">
+  <img src="../assets/screenshots/light/03-ping.png" width="200" alt="Canlı çıktı ve paket istatistikleriyle ICMP ping, açık tema">
 </p>
 <p align="center">
-  <img src="assets/screenshots/light/04-dns.png" width="200" alt="TTL ve çözümleyiciyle DNS sorgu sonucu, açık tema">
-  <img src="assets/screenshots/light/05-ssl.png" width="200" alt="Zincir ve geçerlilik ayrıntılarıyla SSL sertifika kontrolü, açık tema">
-  <img src="assets/screenshots/light/06-subnet.png" width="200" alt="/24 bloğu için alt ağ hesaplayıcı, açık tema">
+  <img src="../assets/screenshots/light/04-dns.png" width="200" alt="TTL ve çözümleyiciyle DNS sorgu sonucu, açık tema">
+  <img src="../assets/screenshots/light/05-ssl.png" width="200" alt="Zincir ve geçerlilik ayrıntılarıyla SSL sertifika kontrolü, açık tema">
+  <img src="../assets/screenshots/light/06-subnet.png" width="200" alt="/24 bloğu için alt ağ hesaplayıcı, açık tema">
 </p>
 
 **Koyu tema**
 
 <p align="center">
-  <img src="assets/screenshots/dark/01-home.png" width="200" alt="IT-ToolZ ana ekranı, koyu tema">
-  <img src="assets/screenshots/dark/02-all-tools.png" width="200" alt="Tüm araçlar, koyu tema">
-  <img src="assets/screenshots/dark/03-ping.png" width="200" alt="ICMP ping, koyu tema">
+  <img src="../assets/screenshots/dark/01-home.png" width="200" alt="IT-ToolZ ana ekranı, koyu tema">
+  <img src="../assets/screenshots/dark/02-all-tools.png" width="200" alt="Tüm araçlar, koyu tema">
+  <img src="../assets/screenshots/dark/03-ping.png" width="200" alt="ICMP ping, koyu tema">
 </p>
 <p align="center">
-  <img src="assets/screenshots/dark/04-dns.png" width="200" alt="DNS sorgusu, koyu tema">
-  <img src="assets/screenshots/dark/05-ssl.png" width="200" alt="SSL sertifika kontrolü, koyu tema">
-  <img src="assets/screenshots/dark/06-subnet.png" width="200" alt="Alt ağ hesaplayıcı, koyu tema">
+  <img src="../assets/screenshots/dark/04-dns.png" width="200" alt="DNS sorgusu, koyu tema">
+  <img src="../assets/screenshots/dark/05-ssl.png" width="200" alt="SSL sertifika kontrolü, koyu tema">
+  <img src="../assets/screenshots/dark/06-subnet.png" width="200" alt="Alt ağ hesaplayıcı, koyu tema">
 </p>
 
 ## Diller
@@ -128,8 +128,8 @@ IT-ToolZ **7 dil** konuşur; uygulama dili Ayarlar'dan istediğiniz zaman deği�
 <p align="center">Android 10 veya üstü · iOS 16 veya üstü, iPhone ve iPad</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
-  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ittoolz.app"><img src="../assets/badges/get-it-on-google-play-tr.png" height="60" alt="Google Play'den alın"></a>
+  <a href="https://apps.apple.com/app/it-toolz/id6829698520"><img src="../assets/badges/download-on-the-app-store-tr.png" height="60" alt="App Store'dan indirin"></a>
 </p>
 
 ## Gizlilik
@@ -161,6 +161,6 @@ Sorularınız, önerileriniz veya hata bildirimleriniz için lütfen [GitHub'da 
 ---
 
 <p align="center">
-  <img src="assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ simgesi"><br>
+  <img src="../assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ simgesi"><br>
   <sub>IT-ToolZ 1.0.1 · Network & System Utilities</sub>
 </p>

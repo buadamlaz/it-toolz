@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>English</b> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a><br>
+  <b>English</b> · <a href="docs/README.tr.md">Türkçe</a> · <a href="docs/README.de.md">Deutsch</a> · <a href="docs/README.es.md">Español</a> · <a href="docs/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/README.fr.md">Français</a> · <a href="docs/README.ru.md">Русский</a><br>
   <a href="PRIVACY.md">Privacy Policy</a>
 </p>
 
@@ -152,7 +152,7 @@ Read the full [Privacy Policy](PRIVACY.md).
 - My Network page, favorites, history with re-run.
 - Light, dark and system themes; 7 languages.
 
-All changes: [CHANGELOG.md](CHANGELOG.md)
+All changes: [CHANGELOG.md](docs/CHANGELOG.md)
 
 ## Contact
 

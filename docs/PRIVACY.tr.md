@@ -1,6 +1,6 @@
 # IT-ToolZ — Gizlilik Politikası
 
-<p align="right"><a href="PRIVACY.md">English</a> · <b>Türkçe</b> · <a href="README.tr.md">IT-ToolZ</a></p>
+<p align="right"><a href="../PRIVACY.md">English</a> · <b>Türkçe</b> · <a href="PRIVACY.de.md">Deutsch</a> · <a href="PRIVACY.es.md">Español</a> · <a href="PRIVACY.pt-BR.md">Português (Brasil)</a> · <a href="PRIVACY.fr.md">Français</a> · <a href="PRIVACY.ru.md">Русский</a> · <a href="README.tr.md">IT-ToolZ</a></p>
 
 **İletişim:** [GitHub Issues](https://github.com/buadamlaz/it-toolz/issues)  
 **Yürürlük tarihi:** 28 Ekim 2026

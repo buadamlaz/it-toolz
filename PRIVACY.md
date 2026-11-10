@@ -1,6 +1,6 @@
 # IT-ToolZ — Privacy Policy
 
-<p align="right"><b>English</b> · <a href="PRIVACY.tr.md">Türkçe</a> · <a href="README.md">IT-ToolZ</a></p>
+<p align="right"><b>English</b> · <a href="docs/PRIVACY.tr.md">Türkçe</a> · <a href="docs/PRIVACY.de.md">Deutsch</a> · <a href="docs/PRIVACY.es.md">Español</a> · <a href="docs/PRIVACY.pt-BR.md">Português (Brasil)</a> · <a href="docs/PRIVACY.fr.md">Français</a> · <a href="docs/PRIVACY.ru.md">Русский</a> · <a href="README.md">IT-ToolZ</a></p>
 
 **Contact:** [GitHub Issues](https://github.com/buadamlaz/it-toolz/issues)  
 **Effective date:** 28 October 2026
