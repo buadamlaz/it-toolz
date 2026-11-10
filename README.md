@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-  <b>English</b> · <a href="README.tr.md">Türkçe</a> · <a href="PRIVACY.md">Privacy Policy</a>
+  <b>English</b> · <a href="README.tr.md">Türkçe</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">Русский</a><br>
+  <a href="PRIVACY.md">Privacy Policy</a>
 </p>
 
 ---
