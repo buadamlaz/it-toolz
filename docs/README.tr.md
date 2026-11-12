@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/s%C3%BCr%C3%BCm-1.0.1-0066E6?style=flat-square" alt="Sürüm 1.0.1">
+  <img src="https://img.shields.io/badge/s%C3%BCr%C3%BCm-1.0.3-0066E6?style=flat-square" alt="Sürüm 1.0.3">
   <img src="https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 10+">
   <img src="https://img.shields.io/badge/iOS-16%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 16+">
   <img src="https://img.shields.io/badge/dil-7-00B8E6?style=flat-square" alt="7 dil">
@@ -140,7 +140,17 @@ IT-ToolZ'de **kullanıcı hesabı, analitik, reklam ve kendi sunucumuz yoktur**.
 
 ## Sürüm notları
 
-### 1.0.1 — artık Google Play'de ve App Store'da
+### 1.0.3 — artık Google Play'de ve App Store'da
+
+- Daha sade sonuç ekranları: açıklamalar Teknik ayrıntılar altında açılıyor.
+- Daha kısa metinler; platforma özel uyarılar yalnızca kendi platformunda.
+- Hakkında sayfasında geliştirici bilgisi ve sezgin.net.tr bağlantısı.
+
+### 1.0.2
+
+- Gizlilik politikası uygulamanın dilinde açılıyor.
+
+### 1.0.1
 
 - **DNS Lookup:** DNS sunucusu seçimi — cihazınızın DNS'i, 1.1.1.1, 8.8.8.8 veya kendi sunucu IP'niz.
 - **Public IP ve RDAP/WHOIS:** koordinatlara dokunarak harita uygulamanızda açın.
@@ -162,5 +172,5 @@ Sorularınız, önerileriniz veya hata bildirimleriniz için lütfen [GitHub'da 
 
 <p align="center">
   <img src="../assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ simgesi"><br>
-  <sub>IT-ToolZ 1.0.1 · Network & System Utilities</sub>
+  <sub>IT-ToolZ 1.0.3 · Network & System Utilities</sub>
 </p>

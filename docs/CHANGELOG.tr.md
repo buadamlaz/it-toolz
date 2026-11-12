@@ -4,6 +4,19 @@ IT-ToolZ'daki kullanıcıya dönük değişiklikler. En yeni en üstte. Tarihler
 
 English: [CHANGELOG.md](CHANGELOG.md)
 
+## 1.0.3 — 2026-11-11
+
+### Değişenler
+- **Daha sade sonuç ekranları.** Açıklamalar artık **Teknik ayrıntılar** altında açılıyor; sonucun kendisi kısa kalıyor.
+- **Daha kısa metinler.** Tekrarlayan ipuçları ve notlar kaldırıldı; iPhone'a özel uyarılar yalnızca iPhone'da, Android'e özel uyarılar yalnızca Android'de görünür.
+- **Hakkında:** geliştirici Yurdakul SEZGIN ve sezgin.net.tr bağlantısı gösterilir.
+
+## 1.0.2 — 2026-11-10
+
+### Değişenler
+- **Gizlilik politikası sizin dilinizde.** Ayarlar ve Hakkında, gizlilik politikasını uygulamanın dilinde açar (İngilizce, Türkçe, Almanca, İspanyolca, Portekizce (Brezilya), Fransızca veya Rusça).
+- Mağaza sayfaları uygulamanın 7 dilinin hepsinde.
+
 ## 1.0.1 — 2026-10-28 (Kasım 2026'dan beri Google Play'de ve App Store'da herkese açık)
 
 ### Yeni

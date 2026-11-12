@@ -4,6 +4,19 @@ All notable changes to IT-ToolZ for users. Newest first. Dates are in ISO format
 
 Türkçe: [CHANGELOG.tr.md](CHANGELOG.tr.md)
 
+## 1.0.3 — 2026-11-11
+
+### Changed
+- **Cleaner result screens.** Explanations now open under **Technical details**, so the result itself stays short.
+- **Shorter texts.** Repeated hints and notes were removed; iPhone-only hints appear only on iPhone and Android-only hints only on Android.
+- **About:** shows the developer, Yurdakul SEZGIN, with a link to sezgin.net.tr.
+
+## 1.0.2 — 2026-11-10
+
+### Changed
+- **Privacy policy in your language.** Settings and About open the privacy policy in the app language (English, Turkish, German, Spanish, Portuguese (Brazil), French or Russian).
+- The store pages are available in all 7 app languages.
+
 ## 1.0.1 — 2026-10-28 (public on Google Play and the App Store since November 2026)
 
 ### Added

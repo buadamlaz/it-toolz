@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-0066E6?style=flat-square" alt="Version 1.0.1">
+  <img src="https://img.shields.io/badge/version-1.0.3-0066E6?style=flat-square" alt="Version 1.0.3">
   <img src="https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 10+">
   <img src="https://img.shields.io/badge/iOS-16%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 16+">
   <img src="https://img.shields.io/badge/languages-7-00B8E6?style=flat-square" alt="7 languages">
@@ -140,7 +140,17 @@ Read the full [Privacy Policy](PRIVACY.md).
 
 ## Release notes
 
-### 1.0.1 — now on Google Play and the App Store
+### 1.0.3 — now on Google Play and the App Store
+
+- Cleaner result screens: explanations open under Technical details.
+- Shorter texts; platform-specific hints only on their platform.
+- About shows the developer and links to sezgin.net.tr.
+
+### 1.0.2
+
+- The privacy policy opens in the app language.
+
+### 1.0.1
 
 - **DNS Lookup:** choose the DNS server — your device's DNS, 1.1.1.1, 8.8.8.8 or your own server IP.
 - **Public IP and RDAP/WHOIS:** tap the coordinates to open them in your maps app.
@@ -162,5 +172,5 @@ Questions, ideas or bug reports? Please [open an issue on GitHub](https://github
 
 <p align="center">
   <img src="assets/logo/it-toolz-icon-192.png" width="64" alt="IT-ToolZ icon"><br>
-  <sub>IT-ToolZ 1.0.1 · Network & System Utilities</sub>
+  <sub>IT-ToolZ 1.0.3 · Network & System Utilities</sub>
 </p>
